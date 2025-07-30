@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>AgentWatchMac</title>
+        <title>AgentWatch</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Wed, 30 Jul 2025 01:17:28 -0400</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.1</title>
+            <pubDate>Wed, 30 Jul 2025 15:35:17 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yashpoojary19/agentwatch-release/releases/download/prod/AgentWatch.dmg" length="1172073" type="application/octet-stream" sparkle:edSignature="H9CdBxSsrlMrK9iw+YoC4gPe1OT+t3QLL7c/mgw3VySVagFOfZUqAWXus14ZJgNw5Inog6y8lHWmQJ0o/xSBDA=="/>
+            <enclosure url="https://github.com/yashpoojary19/agentwatch-release/releases/download/prod/AgentWatch.dmg" length="1823107" type="application/octet-stream" sparkle:edSignature="HKMIyFCcRwt898fA6SMqgKdk4K0d7bxxVItELTJMqMV+JvgibzHUYqgu3QGH5NkHCikAWwSQkraLyIP8ZsWAAw=="/>
         </item>
     </channel>
 </rss>
