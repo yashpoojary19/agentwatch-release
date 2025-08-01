@@ -3,6 +3,14 @@
     <channel>
         <title>AgentWatch</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Thu, 31 Jul 2025 20:08:12 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yashpoojary19/agentwatch-release/releases/download/prod/AgentWatch.dmg" length="1982596" type="application/octet-stream" sparkle:edSignature="d3Xy3ooHiPzjPduBCxpjzbfnDviL3CpkE+sVjTWFObK0y3gA0nKkZb1hestmFzz3HDIrV0HchONpS8nSG98aDg=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Wed, 30 Jul 2025 15:35:17 -0400</pubDate>
             <sparkle:version>2</sparkle:version>
