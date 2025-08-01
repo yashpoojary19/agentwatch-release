@@ -8,7 +8,7 @@
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yashpoojary19/agentwatch-release/releases/download/prod/AgentWatch.dmg" length="2020048" type="application/octet-stream" sparkle:edSignature="iH8qFulmfF83Q4VrnZ3nvwXwhhxv13zxWtmxPXnfT31IgxCtWv3sQgaJFK1zpMSJ7tTaUEH1pI2hcl77QcVrBg=="/>
+            <enclosure url="https://github.com/yashpoojary19/agentwatch-release/releases/download/prod/AgentWatch.dmg" length="2019927" type="application/octet-stream" sparkle:edSignature="DqTSUFaX7BC3V0A1qVGJLRVsp5D413ol+9Ncr8FdVSBJ/v2qRoLpU4wLzIa0yMOrbJiBNssnQMaNiw3BlEfNBw=="/>
         </item>
         <item>
             <title>1.3</title>
